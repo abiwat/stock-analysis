@@ -59,4 +59,4 @@ The advantage to refactoring code is the structure of the code and the basic flo
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
-I don't see any cons for this script.  The pro is the amount of time to run the code was reduce.
+I don't see any cons for this script.  The pro is the amount of time to run the code was reduced.
