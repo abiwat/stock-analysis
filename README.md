@@ -2,11 +2,11 @@
 
 ## Overview of Project: Explain the purpose of this analysis.
 
-The client, Steve, is looking to do an analysis of the entire stock market for the last few years to determine which stocks have positive return on investment.  To do this, I am refactoring a macro built to analysis 12 green stocks to report Total Daily Volume and the Return and to expand it to handle the entire stock market.
+The client, Steve, is looking to do an analysis of the entire stock market for the last few years to determine which stocks have positive return on investment.  To do this, I am refactoring a macro built to analyize 12 green stocks to report Total Daily Volume and the Return and to expand it to handle the entire stock market.
 
 ## Results:
 
-I am going to break the results down to the analysis of the data and then the analysis of the macro.
+I am going to break the results down to the analyize of the data and then the analyize of the macro.
 
 #### Data
 
@@ -35,7 +35,7 @@ Lastly, I created a For loop to output Ticker, Total Daily Volume and Return.
 ![Output%20Loop.png](https://github.com/abiwat/stock-analysis/blob/main/Resources/OutPut%20Loop.png)
 
 
-From the resulting data for 2017, all but TERP would have been a good investment.  That being said, DQ had the highest return (199.4%).  2018 does not appear to be as profitable for the stocks market.  DQ had the lowest return for 2018 (62.6%), ENPH (81.9%) and RUN(84.0%) were the only stocks in the data to have positive return in 2018.  Based on these two years worth of data, I would recommend investing on ENPH and RUN.
+From the resulting data for 2017, all but TERP would have been a good investment.  That being said, DQ had the highest return (199.4%).  2018 does not appear to be as profitable for the stocks market.  DQ had the lowest return for 2018 (-62.6%), ENPH (81.9%) and RUN(84.0%) were the only stocks in the data to have positive return in 2018.  Based on these two years worth of data, I would recommend investing on ENPH and RUN.
 
 #### Macro
 
