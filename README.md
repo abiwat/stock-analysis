@@ -39,7 +39,7 @@ From the resulting data for 2017, all but TERP would have been a good investment
 
 #### Macro
 
-The refactoring of macro to increase the amount of data it can handle did make the code run faster on the data available.
+The refactoring of the macro to increase the amount of data it can handle did make the code run faster on the data available.
 
 The original code for 2017 took 0.4960938 seconds to run, and 2018 took 0.484375 second to run.  With the code refactored, 2017 code ran in 0.1445313 
 
@@ -55,7 +55,7 @@ Clearly the code ran faster after being refactored.
 
 ### What are the advantages or disadvantages of refactoring code?
 
-The advantage to refactoring code is the structure of the code and the basic flow is already in place and then you can concentrate on editting and re-writing peices of the code as needed.  It safes time and provides a starting place.  And in refactoring the code, it was cleaned up and ultimately ran faster.
+The advantage to refactoring code is the structure of the code and the basic flow is already in place and then you can concentrate on editting and re-writing pieces of the code as needed.  It saves time and provides a starting place.  And in refactoring the code, it was cleaned up and ultimately ran faster.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
